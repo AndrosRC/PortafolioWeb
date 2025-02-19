@@ -285,6 +285,8 @@ h1 {
   background-color: rgb(13, 110, 253);
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
+  border: 6px solid black;
+  border-radius: 15px;
 }
 
 .contacto .row {
@@ -326,7 +328,7 @@ h1 {
 
 /* Modal de Contacto */
 .modal-content {
-  background-color: rgb(13, 110, 253); /* Color azul de la sección contacto */
+  background-color: rgb(13, 110, 253);
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px black;
 }
@@ -398,6 +400,7 @@ footer {
 .footerContenido {
   color: white;
   background-color: #4d4de0;
+  border-top: 6px solid black;
 }
 
 .footer-texto {
